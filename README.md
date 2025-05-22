@@ -7,7 +7,7 @@ Soc Analyst 1
 A dedicated cybersecurity enthusiast with hands-on experience in Security Operations, Penetration Testing and Network Security, My background includes practical skills in Programming languages and Networking, which I use to tackle security challenges and enhance processes. Eager to continue learning and contribute to the field.
 
 * 🌍  I'm based in Cairo ,Egypt
-* 🖥️  See my portfolio at [https://www.marsh-mmf.me/](http://https://www.marsh-mmf.me/)
+* 🖥️  See my portfolio at [https://www.marsh-mmf.me/](http://www.marsh-mmf.me/)
 * ✉️  You can contact me at [mohammed.m.farag@protonmail.com](mailto:mohammed.m.farag@protonmail.com)
 * 🧠  I'm learning Network Security, Security opration, Insdant Respond
 
